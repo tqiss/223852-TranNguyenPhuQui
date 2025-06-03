@@ -1,2 +1,3 @@
 Name: Qui Tran
 Interests: Coding, Design  
+skill: sieu thu mon, best adc
